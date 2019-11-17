@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24b0baef-3a3e-4a10-a50a-4c75ede8fb90" name="Default Changelist" comment="" />
+    <list default="true" id="24b0baef-3a3e-4a10-a50a-4c75ede8fb90" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/btre_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/btre_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +75,23 @@
       <option name="presentableId" value="Default" />
       <updated>1574021283229</updated>
       <workItem from="1574021284683" duration="792000" />
+      <workItem from="1574022125832" duration="324000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated gitignore">
+      <created>1574022319608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574022319608</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated gitignore">
+      <created>1574022381346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574022381346</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,10 +102,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Updated gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated gitignore" />
   </component>
 </project>
